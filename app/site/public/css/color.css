@@ -1,0 +1,547 @@
+
+/*Home page start*/
+
+.handy-home-banner .banner-content .search-wrap-inner .btn{
+	background: #00bcd5;
+}
+.btn-post-task{
+	background: #00bcd5;
+	border: 1px solid #00bcd5;
+}
+.btn-post-task:hover {
+    background: #fff;
+    color: #00bcd5;
+    border: 1px solid #00bcd5;
+}
+.handy-home-testimonials .testimonials-wrap .author-name .highlight {
+    color: #00bcd5 !important;
+}
+.slick-next{
+	 background: #00bcd5 !important;
+}
+.slick-prev{
+	 background: #00bcd5 !important;
+}
+.handy-home-newsletter {
+    background-color: #00bcd5;
+}
+
+/*Home page end*/
+
+
+
+/*User add address page start*/
+
+.selectadd .button_se {
+    background: #00bcd5;
+}
+.bluebtn {
+    background: #00bcd5;
+    border:1px solid #00bcd5;
+}
+.bluebtn:hover {
+    background: #fff;
+    border:1px solid #00bcd5;
+    color: #00bcd5;
+}
+
+/*User add address page end*/
+
+
+/*tasker search result start*/
+
+.srch-title span {
+    background: #00bcd5;
+ }
+ ul.tab-icon li.active i {
+    background: #00bcd5;
+ }
+ span.hur-amt {
+    background: #00bcd5;
+}
+.hire-stp2 .hirestep-2 .tskr-vew .hirebtn {
+    border: 1px solid #00bcd5;
+    background: #00bcd5;
+}
+.hire-stp2 .hirestep-2 .tskr-vew a {
+    font-size: 15px;
+    color: #00bcd5;
+ }
+ .hire-stp2 .tasker-dtl-info .glyphicon-ok, .hire-stp2 .tasker-dtl-info .glyphicon-thumbs-down {
+    color: #00bcd5;
+}
+ul.tab-icon li i{
+	color: #00bcd5;
+}
+.price-range .ui-slider-horizontal .ui-slider-range {
+    background: #00bcd5;
+}
+.hire-stp2 .hirestep-2 .tskr-vew .hirebtn:hover {
+    background: #fff;
+    color: #00bcd5!important;
+    border:1px solid #00bcd5;
+}
+.hire-stp2 .hirestep-2 .tskr-vew .hirebtn:hover > span.muted {
+    color: #00bcd5;
+}
+ /*tasker search result end*/
+
+
+ /*chat page start*/
+
+ .confirm_buut {
+    background: #00bcd5 none repeat scroll 0 0!important;
+    border: 1px solid #00bcd5;
+ }
+ .confirm_buut:hover{
+ 	 background: #fff none repeat scroll 0 0!important;
+ 	 color: #00bcd5;
+    border: 1px solid #00bcd5;
+ }
+ .task-dtls .chat-post button.input-group-addon:hover:before {
+    color: #00bcd5;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+    color: #00bcd5;
+    background-color: #fff;
+    border-color: #00bcd5;
+}
+
+
+ /*chat page end*/
+
+
+ /*footer start*/
+
+.handy-home-footer .footer ul.footer_links li a:hover {
+    text-decoration: none;
+    color: #00bcd5;
+}
+.drpdwn-cnt li:hover {
+    color: #00bcd5;
+}
+.cu-drpdwn li:hover {
+    color: #00bcd5;
+}
+.handy-home-footer .footer ul.social-icons li a i:hover {
+    background-color: #00bcd5;
+    border-color: #00bcd5;
+    color: #fff;
+}
+
+/*footer end*/
+
+
+/*all-popup start*/
+
+.revw-star span i{
+	color:#001e47;
+}
+.btn-primary, .btn-warning{
+	background: #00bcd5;
+	color: #fff;
+	border:1px solid #00bcd5;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary{
+	background: #fff;
+	color: #00bcd5;
+	border:1px solid #00bcd5;
+}
+.btn-warning:hover, .btn-warning:focus, .btn-warning:active, .btn-warning.active, .open .dropdown-toggle.btn-warning{
+	background: #fff;
+	color: #00bcd5;
+	border:1px solid #00bcd5;
+}
+.modal-header {
+    background-color: #00bcd5;
+}
+.availabilities-day-form .modal-header, .availabilities-day-form .modal-header{
+	background-color: #00bcd5!important;
+}
+/*all-popup end*/
+
+
+/*my account start*/
+.tabdetails .nav > li.active > a {
+    background: #fff;
+    border: 1px solid #00bcd5!important;
+    color: #00bcd5!important;
+    box-shadow: none;
+}
+
+.account .maintab > ul.nav > li.active > a{
+	background: #00bcd5;
+}
+.account .maintab > ul.nav > li > a:hover{
+	background: #00bcd5;
+}
+.account-section .btn.btn-secondary.btn-small{
+	border: 1px solid #00bcd5;
+    float: right;
+    font-size: 16px;
+    margin: 0 0 10px;
+    padding: 5px 20px;
+    color: #00bcd5;
+}
+.account-view .admn-details i{
+	background: #00bcd5;
+}
+.tabdetails .nav > li > a{
+	background: #00bcd5;
+}
+.confrm {
+    background: #00bcd5!important;
+}
+.invite-frnds .btnholder a.invite-mail, .invite-frnds .btnholder a.invite-fb {
+    
+    border: 1px solid #ddd;
+    padding: 5px 20px;
+    color: #ffffff;
+    border: 1px solid #00bcd5;
+    border-color: #00bcd5;
+    background: #00bcd5;
+    border-top: #00bcd5;
+
+}
+.current-balance a h4{
+	background: #00bcd5;
+}
+.wallet-mny input[type=radio]:checked ~ .check {
+    border: 5px solid #841b2c;
+}
+.wallet-mny input[type=radio]:checked ~ .check {
+    border: 5px solid #841b2c;
+    background: #00bcd5;
+}
+
+.wall-balrgt .mny-pay input[type="number"]{
+	    border-bottom: 2px solid #00bcd5;
+}
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
+	color: #fff;
+    cursor: default;
+    background-color: #00bcd5;
+    border-color: #ffffff;
+}
+.emptyfie{
+	color: #162c37!important;
+}
+/*my account end*/
+
+
+/*tasker profile start*/
+	.custom-icon{
+		border: 3px solid #00bcd5;
+    	color: #00bcd5;
+	}	
+	.hirebtn{
+	    border: 1px solid #00bcd5;
+		border-radius: 3px;
+		color: #00bcd5;
+	}	
+	.hirebtn:hover{
+		background: #00bcd5;
+	}
+	.nav > li > a{
+		color: #00bcd5;
+	}
+	.hirebtn > span.muted{
+		color: #00bcd5;
+	}
+	.hirebtn > span {
+	    color: #00bcd5;
+	}
+
+/*tasker profile end*/
+
+
+/*login and signup start*/
+
+
+.blue-btn, .grn-btn{
+	background-color: #00bcd5;
+    border: 1px solid #00bcd5;
+}
+.sign-btns li a:hover {
+    color: #00bcd5;
+}
+.blue-btn:hover, .grn-btn:hover{
+	background-color: #fff;
+}
+.sign-btns li.half-pges a{
+	color: #00bcd5;
+	border: 1px solid #00bcd5;
+}
+.sign-btns li > a.fb-btn:hover{
+	background: #fff;
+	color: #00bcd5;
+	opacity: 1;
+}
+.frget-pwd a {
+    color: #00bcd5;
+}
+
+.blue-btn:hover, .grn-btn:hover {
+    background-color: #fff!important;
+    color: #00bcd5!important;
+}
+
+/*login and signup end*/
+	
+	.progressbar > span{
+		background: #00bcd5;
+	}
+
+/*tasker registration start*/
+
+
+
+/*tasker registration start*/
+
+
+.progressbar > span{
+	background: #00bcd5;
+}
+ul.day-list.dte-pkr .cal-holde .dropdown-menu table tbody .btn-default:hover, ul.day-list.dte-pkr .cal-holde .dropdown-menu table tbody .btn-default:focus, ul.day-list.dte-pkr .cal-holde .dropdown-menu table tbody .btn-default:active, ul.day-list.dte-pkr .cal-holde .dropdown-menu table tbody .btn-default.active, ul.day-list.dte-pkr .cal-holde .dropdown-menu table tbody .open .dropdown-toggle.btn-default{
+	background-color: #00bcd5;
+    border-color: #00bcd5;
+}
+ul.day-list.dte-pkr .dropdown-menu table thead tr:first-child{
+	background: #00bcd5;
+}
+.availabilities-day-form input:checked + .switch{
+	background: #00bcd5 none repeat scroll 0 0;
+}
+.btn-success {
+    color: #fff;
+    background-color: #00bcd5;
+    border-color: #00bcd5;
+}
+.btn-success:hover{
+	color: #fff;
+    background-color: #00bcd5;
+    border-color: #00bcd5;
+}
+.signup-tasker-steps-wrap .category-details:nth-child(odd) {
+    background: #00bcd5;
+}
+.signup-tasker-steps-wrap .category-details:nth-child(even) {
+    background: #00bcd5;
+}
+.category-details .btn-info {
+    color: #fff;
+    background-color: #ffffff;
+    border-color: #00bcd5;
+}
+.category-details .btn-info i{
+	color: #00bcd5;
+}
+.datepicker .btn-info.active {
+    background-color: #00bcd5 !important;
+}
+.category-details h4{
+	color: #fff;
+}
+.post_step_last span.page-scroll{
+	background: #00bcd5;
+}
+
+
+/*tasker registration end*/
+
+
+
+
+/*tasker myaccount start*/
+
+i.glyphicon.ng-scope.glyphicon-star {
+    color: #00bcd5;
+}
+.cat-tab .account-section button{
+	background: #00bcd5;
+}
+
+.cat-tab .admn-details a{
+	    color: #00bcd5;
+}
+
+/*tasker myaccount end*/
+
+
+
+/*payment page start*/
+
+.mke-pay .conf-divs h3{
+	color: #00bcd5;
+}
+.copuon-cde input.couponbtn{
+	background: #00bcd5;
+}
+.mke-pay .confbook-text{
+	color: #00bcd5;
+}
+
+/*payment page end*/
+
+
+button.addfields {
+    background-color: #00bcd5;
+}
+.pin {
+	background: #00bcd5;
+}
+.pulse {
+	box-shadow: 0 0 1px 2px #00bcd5; 
+}
+
+.tsk_pric_btn .tsk_pric_btn_inner a {
+    background: #00bcd5;
+	}
+	.tdtcr_rgt_down_btn .actv_dwn_btn.dwn_btns {
+    background: #00bcd5;
+    border: 1px solid #00bcd5;
+}
+span.tdtcr_rgt_lft_rating h5 {
+color: #00bcd5!important;
+}
+.tdtcr_rgt_top .tdtcr_rgt_rgt {
+    color: #00bcd5;
+    text-align: center;
+}
+.rzslider .rz-pointer, .rzslider .rz-bar.rz-selection {
+    background-color: #00bcd5!important;
+}
+.profilepage-top .custom-icon {
+    border: 3px solid #00bcd5;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.46);
+    color: #00bcd5;
+	}
+	.profilepage-top a span{
+	color: #00bcd5!important;
+	}
+	.profle-container .nav-tabs > li.active {
+    border-bottom: 1px solid #162c37;
+}
+.profle-container .nav > li > a {
+    color: #162c37;
+}
+
+.hire-price .hirebtn {
+    border: 1px solid #162c37;
+    border-radius: 3px;
+    color: #162c37;
+	    cursor: pointer;
+}
+
+.hire-price .hirebtn > span.muted {
+    color: #162c37;
+}
+
+.hire-price .hirebtn > span {
+    color: #162c37;
+}
+
+.hire-price .hirebtn:hover {
+    border: 1px solid #00bcd5;
+    color: #ffffff;
+}
+
+.tb_contt .nav-tabs > li.active a {
+    color: #00bcd5;
+}
+
+.hire-price .hirebtn:hover span.muted {
+    color: #fff;
+}
+
+.tb_contt .nav-tabs > li.active {
+    border-bottom: 1px solid #00bcd5;
+}
+.typ_btn .typ_btn_ctn {
+    background: #00bcd5;
+	}
+	.onsite {
+    background: #00bcd5 !important;
+    border: 1px solid #00bcd5 !important;
+	}
+	.reg_link a {
+    color: #00bcd5;
+}
+.rgstr-btn {
+    background: #00bcd5;
+	}
+	.rsgtr-tb .social_btn_fb_link {
+    background: #00bcd5;
+}
+.trm-chk a, .trm-chk a:hover, .trm-chk a:focus {
+    color: #00bcd5;
+}
+
+.prof_nave_name a.active, .prof_nave_name a:hover {
+    color: #00bcd5;
+    border-bottom: 3px solid #00bcd5;
+}
+.new-active a {
+    color: #00bcd5 !important;
+    border-bottom: 3px solid #00bcd5;
+}
+.sub_links:hover a {
+    color: #00bcd5 !important;
+    border-bottom: 3px solid #00bcd5;
+}
+
+button.btn.def_btn {
+    border: 1px solid #00bcd5;
+    background: transparent;
+    color: #00bcd5;
+}
+.btn.act_btn {
+    background: #00bcd5;
+    border: 1px solid #00bcd5;
+}
+.md-button.md-default-theme.md-warn.md-fab, .md-button.md-warn.md-fab, .md-button.md-default-theme.md-warn.md-raised, .md-button.md-warn.md-raised {
+    color: rgb(255,255,255);
+    background-color: #00bcd5;
+}
+
+.md-button.md-default-theme.md-warn.md-fab:not([disabled]).md-focused, .md-button.md-warn.md-fab:not([disabled]).md-focused, .md-button.md-default-theme.md-warn.md-fab:not([disabled]):hover, .md-button.md-warn.md-fab:not([disabled]):hover, .md-button.md-default-theme.md-warn.md-raised:not([disabled]).md-focused, .md-button.md-warn.md-raised:not([disabled]).md-focused, .md-button.md-default-theme.md-warn.md-raised:not([disabled]):hover, .md-button.md-warn.md-raised:not([disabled]):hover {
+    background-color: #00bcd5;
+}
+
+.tskrdet_dtls_btm_left .icon {
+    color: #00bcd5;
+}
+
+.tskrdet_dtls_btm_prc span.name span {
+    color: #00bcd5!important;
+}
+.wallet_dtls_btn button.btn.def_btn.actives {
+    color: #00bcd5;
+	}
+	.wallet_rgt_btns_rgt button.btn.def_btn {
+    background: #00bcd5;
+    border: 1px solid #00bcd5;
+}
+.input_rdo input:checked+label {
+    background: #00bcd5;
+    color: #fff;
+}
+.col-trans-lists p.viw-more a {
+    font-size: 14px;
+    background-color: #00bcd5;
+}
+.tskrdet_dtls_link.reviewactive a {
+    color: #00bcd5;
+}
+.tskrdet_dtls_link.reviewactive a:before {
+    background: #00bcd5;
+	}
+	
+	.tskrdet_dtls_link a.active, .tskrdet_dtls_link a:hover {
+    color: #00bcd5;
+}
+.hfa-btn {
+    background: #00bcd5!important;
+    border: 1px solid #00bcd5;
+    margin-bottom: 30px;
+}
